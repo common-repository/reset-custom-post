@@ -1,0 +1,115 @@
+# Copyright (C) 2024 MELIOZ.dev
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Reset Custom Post 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/reset-custom-post\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-03-24T11:15:58+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: reset-custom-post\n"
+
+#. Plugin Name of the plugin
+#: D:\Laragon_Projects\listingpronew\wp-content\plugins\reset-custom-post\reset-custom-post.php
+msgid "Reset Custom Post"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: D:\Laragon_Projects\listingpronew\wp-content\plugins\reset-custom-post\reset-custom-post.php
+msgid "https://wordpress.org/plugins/reset-custom-post"
+msgstr ""
+
+#. Description of the plugin
+#: D:\Laragon_Projects\listingpronew\wp-content\plugins\reset-custom-post\reset-custom-post.php
+msgid "The Reset custom post plugin deletes all data from a defined custom post, with the option of deleting images attached to the custom post type."
+msgstr ""
+
+#. Author of the plugin
+#: D:\Laragon_Projects\listingpronew\wp-content\plugins\reset-custom-post\reset-custom-post.php
+msgid "MELIOZ.dev"
+msgstr ""
+
+#. Author URI of the plugin
+#: D:\Laragon_Projects\listingpronew\wp-content\plugins\reset-custom-post\reset-custom-post.php
+msgid "https://moezbettoumi.fr"
+msgstr ""
+
+#: inc/admin-page.php:29
+msgid "Select Custom post type"
+msgstr ""
+
+#: inc/admin-page.php:35
+msgid "Select"
+msgstr ""
+
+#: inc/admin-page.php:46
+msgid "Delete attachments images ?"
+msgstr ""
+
+#: inc/admin-page.php:56
+msgid "Total:"
+msgstr ""
+
+#: inc/admin-page.php:58
+msgid "Delete"
+msgstr ""
+
+#: inc/admin-page.php:65
+msgid "Logs"
+msgstr ""
+
+#: inc/cleanup-functions.php:9
+#: inc/cleanup-functions.php:64
+#: inc/cleanup-functions.php:100
+#: inc/cleanup-functions.php:144
+msgid "Error: Nonce verification failed"
+msgstr ""
+
+#: inc/cleanup-functions.php:28
+msgid "Deletion  <strong>%s</strong> completed"
+msgstr ""
+
+#: inc/cleanup-functions.php:31
+msgid "Deletion completed"
+msgstr ""
+
+#: inc/cleanup-functions.php:48
+msgid "The post <strong>%1s</strong> - ID : <strong>%2s</strong> is deleted"
+msgstr ""
+
+#: inc/cleanup-functions.php:72
+msgid "Invalid image ID"
+msgstr ""
+
+#: inc/cleanup-functions.php:82
+msgid "Image with ID <strong>%1s</strong> from post <strong>%2s</strong> is deleted"
+msgstr ""
+
+#: inc/cleanup-functions.php:88
+msgid "Error deleting image"
+msgstr ""
+
+#: inc/cleanup-functions.php:123
+msgid "%1s %2s"
+msgstr ""
+
+#: inc/cleanup-functions.php:129
+msgid "Custom post changed to <strong>%s</strong>"
+msgstr ""
+
+#: inc/cleanup-functions.php:149
+msgid "Invalid taxonomy name"
+msgstr ""
+
+#: inc/cleanup-functions.php:158
+msgid "Invalid taxonomy name <strong>%s</strong>"
+msgstr ""
+
+#: inc/cleanup-functions.php:174
+msgid "Elements of taxonomy <strong>%s</strong> deleted successfully"
+msgstr ""
